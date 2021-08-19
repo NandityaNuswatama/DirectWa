@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Langsung WA</string>
+    <string name="salin">Salin Tautan</string>
+    <string name="kirim_pesan">Kirim Pesan</string>
+    <string name="mulai_whatsapp_tanpa_simpan_nomor">Mulai WhatsApp tanpa simpan nomor</string>
+    <string name="masukkan_nomor_hp">Masukkan Nomor Hp</string>
+    <string name="_08xxxxxxxxxx">08XXXXXXXXXX</string>
+</resources>
